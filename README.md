@@ -14,6 +14,11 @@ b) What metric would you report for this dataset?
 c) What is its value?
 
 [Code](https://github.com/Shreyas-Bhat/Summer-2022-Data-Science-Intern-Challenge/blob/main/Question1.ipynb)
+### Visualization
+<p float="center">
+<img src="images/1.png" width="400"/>
+  <img src="images/2.png" width="400"/>
+</p>
 
 ## Question 2
 
